@@ -20,7 +20,7 @@ To run this project, you need Python 3.7+ and the following libraries:
 
 git clone https://github.com/sohail000/llm-working.git
 
-3. Run the Streamlit app:
+3. Run the Streamlit app:  streamlit run llm_working.py
 
    3. Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 
